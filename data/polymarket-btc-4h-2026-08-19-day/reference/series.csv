@@ -1,0 +1,2 @@
+series_id,slug,ticker,title,recurrence,series_type,active,closed,archived,created_at_src,updated_at_src
+10331,btc-up-or-down-4h,btc-up-or-down-4h,BTC Up or Down 4h,daily,single,t,f,f,2025-09-24 19:35:10.648656+00,2026-08-21 05:36:09.064874+00

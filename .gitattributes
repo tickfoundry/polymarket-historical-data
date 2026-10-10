@@ -1,0 +1,4 @@
+*.parquet binary
+*.gz binary
+data/** linguist-vendored
+preview/** linguist-vendored

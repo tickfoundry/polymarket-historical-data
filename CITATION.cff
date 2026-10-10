@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this data in research, please cite it as below."
+title: "Polymarket historical order book and trade data: free sample (BTC Up or Down 4h, 2026-08-19)"
+authors:
+  - name: TickFoundry
+type: dataset
+url: "https://tickfoundry.com/polymarket-historical-data"
+repository-code: "https://github.com/tickfoundry/polymarket-historical-data"
+date-released: 2026-10-10
+keywords:
+  - polymarket
+  - prediction markets
+  - order book
+  - tick data
+  - market microstructure
