@@ -196,7 +196,7 @@ The hierarchy is series, then events, then markets (`condition_id`), then outcom
 - Trade tape from the websocket: from April 2026.
 - Our own continuous capture, including the raw websocket messages with nanosecond receive timestamps: since 2026-05-11.
 - On-chain trade fills read from Polygon settlement: back to 2023, per market, thinner before 2026.
-- Hyperliquid: the order book on every block and every trade, since January 2025.
+- Hyperliquid: the order book on every block since January 2025, trades from March 2025.
 
 Coverage differs by market. The [catalog](https://tickfoundry.com/catalog) shows the dates available for each one.
 
