@@ -6,7 +6,7 @@ The l1, l2, trades and raw files use the same schema as every TickFoundry downlo
 
 ## What TickFoundry is
 
-TickFoundry records Polymarket's order book and trades and sells the history per market and per day, as parquet or CSV bundles and through a REST API. It covers Hyperliquid as well. Catalog, docs and plans are at [tickfoundry.com](https://tickfoundry.com).
+TickFoundry records Polymarket's order book and trades and sells the history per market and per day, as parquet or CSV bundles and through a REST API. It covers Hyperliquid and Kalshi as well. Catalog, docs and plans are at [tickfoundry.com](https://tickfoundry.com).
 
 ## What's in this repo
 
