@@ -197,6 +197,7 @@ The hierarchy is series, then events, then markets (`condition_id`), then outcom
 - Our own continuous capture, including the raw websocket messages with nanosecond receive timestamps: since 2026-05-11.
 - On-chain trade fills read from Polygon settlement: back to 2023, per market, thinner before 2026.
 - Hyperliquid: the order book on every block since January 2025, trades from March 2025.
+- Kalshi: the order book on every change since 27 September 2026, and every trade on the exchange back to June 2021.
 
 Coverage differs by market. The [catalog](https://tickfoundry.com/catalog) shows the dates available for each one.
 
